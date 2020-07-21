@@ -1,0 +1,15 @@
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.exe
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.deps.json
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.runtimeconfig.json
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.runtimeconfig.dev.json
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.dll
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\LolTeste2.pdb
+C:\Users\ka-ro\Documents\c#\LolTeste2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.csprojAssemblyReference.cache
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.AssemblyInfoInputs.cache
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.AssemblyInfo.cs
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.csproj.CoreCompileInputs.cache
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.csproj.CopyComplete
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.dll
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.pdb
+C:\Users\ka-ro\Documents\c#\LolTeste2\obj\Debug\netcoreapp3.1\LolTeste2.genruntimeconfig.cache
