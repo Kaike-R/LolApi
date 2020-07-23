@@ -11,7 +11,7 @@ namespace LolTeste2
     {
         HttpClient client = new HttpClient();
 
-        string key = "coloque a key aqui";
+        string key = " Digite a sua chave aqui";
 
         public UsuarioRepositorio(){
             client.BaseAddress = new Uri("https://br1.api.riotgames.com");
@@ -22,7 +22,9 @@ namespace LolTeste2
                 new MediaTypeWithQualityHeaderValue("application/json"));
         }
         public async Task<Usuario> GetUsuariosAsync(){
-            HttpResponseMessage response = await client.GetAsync("/lol/summoner/v4/summoners/by-name/Wolf%20and%20Sheep");
+            Console.WriteLine("Digite o nome do usuario que você esteja buscando");
+            string nickname = Console.ReadLine();
+            HttpResponseMessage response = await client.GetAsync("/lol/summoner/v4/summoners/by-name/" + nickname);
             if (response.IsSuccessStatusCode)
             {
                 var dados = await response.Content.ReadAsStringAsync();
